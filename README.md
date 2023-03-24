@@ -1,4 +1,4 @@
 # SPA-Management-System
-<University Course project./>
+<sub>University Course project.<sub>
 Java Object-Oriented Programming.
-This project has been done by a team.
+>This project has been done by a team.

@@ -1,4 +1,4 @@
 # SPA-Management-System
-**University Course project**
 ### Java Object-Oriented Programming.
+**University Course project**
 >This project has been done by a team.

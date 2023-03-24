@@ -1,2 +1,4 @@
 # SPA-Management-System
-OOP project
+Univisity Course project
+Java Object-Oriented Programming.
+This project has been done by a team.
